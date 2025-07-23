@@ -21,8 +21,7 @@
     section {
       padding: 20px;
     }
-    .images {
-      display: flex;
+    .images {<img width="255" height="233" alt="Your paragraph text (2)" src="https://github.com/user-attachments/assets/9baef716-6340-43ef-b142-0d98334580ca" />
       gap: 15px;
       flex-wrap: wrap;
       justify-content: center;
@@ -71,7 +70,11 @@
   </ul>
 
   <h2>Gallery</h2>
-  <div class="images">
+  <div class="images ![solar-rooftop-system-500x500](https://github.com/user-attachments/assets/ad717461-54f1-469c-bacb-35df78d621cc)
+![images (24)](https://github.com/user-attachments/assets/709d581d-e277-437b-b07f-6a71fdc96719)
+![images (26)](https://github.com/user-attachments/assets/390fcd35-9d70-49b8-bd6a-c0330c904669)
+![images (25)](https://github.com/user-attachments/assets/805d05d4-9b34-4bbd-b4fb-20dea558d476)
+">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Solar_panels.jpg" alt="Solar Panel">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Solar_panel_installation.jpg" alt="Solar Installation">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Solar_power_plant.jpg" alt="Solar Plant">
@@ -88,7 +91,7 @@
 
   <h2>Contact Us</h2>
   <p>Have questions or need a quote? Reach us directly on WhatsApp.</p>
-  <a class="whatsapp-button" href="https://wa.me/91XXXXXXXXXX" target="_blank">
+  <a class="whatsapp-button" href="https://wa.me/9486092166" target="_blank">
     📞 Chat on WhatsApp
   </a>
 </section>
