@@ -2,6 +2,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <img src="your-logo.png" alt="SK Enterprices Logo"><img width="500" height="500" alt="logo png" src="https://github.com/user-attachments/assets/a7c1a645-47c6-43f9-8238-3b4ad0fe311d" />
+
   <meta charset="UTF-8">
   <title>SK Enterprises - Solar Projects</title>
   <style>
